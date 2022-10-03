@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
-## Hi!👋 This is Rok's GitHub!
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Hi!%20This%20is%20Rok's%20GitHub!&fontAlign=50&stroke=00FF00&strokeWidth=3)
+
 
 <!--
 **rok92/rok92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
