@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-
+## :sparkles: Stats
 ![rok92's github stats](https://github-readme-stats.vercel.app/api?username=rok92&show_icons=true&theme=merko)
 
 [![](https://raw.githubusercontent.com/rok92/rok92/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
