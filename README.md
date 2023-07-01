@@ -1,22 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Hi!%20This%20is%20Rok's%20GitHub!&fontAlign=50&stroke=00FF00&strokeWidth=3)
 
-
-<!--
-**rok92/rok92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 💪Skills
-### Platforms & Languages
+## 💪Tech
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
@@ -39,7 +23,4 @@ Here are some ideas to get you started:
 ## :sparkles: Stats
 ![rok92's github stats](https://github-readme-stats.vercel.app/api?username=rok92&show_icons=true&theme=merko)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rok9293)](https://solved.ac/rok9293/)
-
-[![](https://raw.githubusercontent.com/rok92/rok92/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rok92/rok92/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rok92/rok92/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
