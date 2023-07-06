@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Hi!%20This%20is%20Rok's%20GitHub!&fontAlign=50&stroke=00FF00&strokeWidth=3)
 
-Hi! I'm kyeongrok Kwak(Rok)
-Starting with Java, I entered the IT industry as a developer in 2022. 
+Hi! I'm kyeongrok Kwak(Rok)<br/>
+Starting with Java, I entered the IT industry as a developer in 2022.<br/>
 Since I am interested Web3 ecosystem, I am currently studying Web3 blockchain with Solidity. 
 
 ## 💪Tech
