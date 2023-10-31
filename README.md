@@ -16,7 +16,6 @@ Since I am interested Web3 ecosystem, I am currently studying Web3 blockchain wi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
-![React Native](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React Native&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
 ### Tools
